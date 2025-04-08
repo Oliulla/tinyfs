@@ -56,7 +56,7 @@ To build and run the project, you need to have the following installed:
    If you haven't already, clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/tinyfs.git
+   git clone https://github.com/Oliulla/tinyfs.git
    cd tinyfs
    ```
 
