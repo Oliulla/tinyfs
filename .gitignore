@@ -1,0 +1,22 @@
+# Ignore compiled object files
+*.o
+
+# Ignore compiled executable
+tinyfs
+
+# Ignore build directory
+build/
+
+# Ignore any temporary files created by the editor (e.g., VSCode, Sublime Text)
+.vscode/
+*.swp
+*.swo
+
+# Ignore backup files
+*~
+
+# Ignore test executables
+test_fs
+
+# Ignore log files
+*.log
